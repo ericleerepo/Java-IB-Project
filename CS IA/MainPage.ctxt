@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=MainPage
+comment1.params=
+comment1.target=MainPage()
+comment2.params=
+comment2.target=java.lang.String\ user1_income()
+comment3.params=
+comment3.target=java.util.ArrayList\ user1_expenses()
+comment4.params=
+comment4.target=void\ Calculator()
+comment5.params=
+comment5.target=java.lang.String\ user2_income()
+comment6.params=
+comment6.target=java.util.ArrayList\ user2_expenses()
+numComments=7

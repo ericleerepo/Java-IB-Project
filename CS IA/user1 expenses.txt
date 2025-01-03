@@ -1,0 +1,1 @@
+Rent, 1000, 2.0% of income |Food, 500, 1.0% of income |
